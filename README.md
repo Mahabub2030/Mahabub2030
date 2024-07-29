@@ -1,6 +1,6 @@
 #<h2 align="left">Hi 👋! My name is .Mahabub.Alam. and I'm a ..., form ..KSA.
 
-I am lerning frontend WevDevolapment
+I’m currently learning Fronted Devolapment 
 
 .</h2>
 
