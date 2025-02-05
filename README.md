@@ -25,13 +25,13 @@ I’m currently learning Full stack Devolapment
 ## :computer: Technologies that I know
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
   <img width="12" />
 </div>
 
@@ -56,7 +56,7 @@ I’m currently learning Full stack Devolapment
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/" width="200" alt="Mahabub'Profile"/></a>
 </div>
 
-### 🔭 I’m working -  learning Full stack Devolapment . 
+### 🔭 I’m working -  Nabatat Co.compnay Saudi Ariba Dammam . 
 ### 🌱 I’m exploring - React js,Next js inculde w3 shcool. 
 ### 👯 I’m looking - Web Devolapmer job in remote. 
 ### 🤔 I’m trying -  learn web development as Full stack Devolapment resposive Website. 
