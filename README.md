@@ -1,4 +1,4 @@
-#<h2 align="center">Hi 👋! My name is .Mahabub.Alam. 
+<h2 align="center">Hi 👋! My name is .Mahabub.Alam. 
 
 I’m currently learning Full stack Devolapment 
 
