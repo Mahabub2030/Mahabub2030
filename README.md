@@ -63,9 +63,8 @@ I’m a Front End Web developer passionate about making error-free websites with
 ## 🚀 Category Skils
 ✅ Front End Web developer <br> 
 ✅ problem solving  <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ HTML5 / CSS3 / tailwind css / Bootstrap <br>
+✅ Photoshop / Illustrator (Basic) <br>
 ###
 ## :eyes: Current overview
 
