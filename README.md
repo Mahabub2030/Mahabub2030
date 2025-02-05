@@ -1,6 +1,6 @@
-#<h2 align="left">Hi 👋! My name is .Mahabub.Alam. and I'm a ..., form ..KSA.
+#<h2 align="center">Hi 👋! My name is .Mahabub.Alam. 
 
-I’m currently learning Fronted Devolapment 
+I’m currently learning Full stack Devolapment 
 
 <br/>
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
