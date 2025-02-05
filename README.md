@@ -13,8 +13,16 @@ I’m currently learning Full stack Devolapment
 <div align="center">
 
 </p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=dark&exclude_days=Mon" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="GitHub Streak" /></a>
+<!-- GitHub Streak Stats -->
+
+
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahabub2030&show_icons=true&theme=dark" alt="GitHub Stats" />
+</a>
+
+
+
   
 </div>
 
