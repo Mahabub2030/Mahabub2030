@@ -58,7 +58,13 @@ I’m currently learning Full stack Devolapment
 <br clear="both" align="center">
 
 ## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 4 client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 20s of websites for me. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with react js but some technologies I enjoy working with include ReactJS, JavaScript as well as node js . 
+Hi, I'm Prasher, a passionate Frontend Developer with a strong background in building dynamic and responsive web applications. I have successfully developed 5 websites for clients, focusing on delivering high-quality user experiences and efficient, maintainable code. My expertise lies in modern web technologies, ensuring that every project meets both aesthetic and functional standards.
+
+I specialize in React.js for building interactive UIs, ensuring seamless and fast performance. Additionally, I have experience with Node.js for backend development and MongoDB for database management, enabling me to work across the full stack when needed. This combination allows me to create comprehensive solutions, from frontend interfaces to backend APIs.
+
+I'm dedicated to continuous learning and staying updated with the latest industry trends. My projects showcase my ability to write clean, efficient code while focusing on performance, scalability, and user experience. I'm excited to contribute to open-source projects and collaborate with other developers to build innovative web solutions.
+
+Feel free to check out my repositories and see the work I’ve done. Let’s connect and build something amazing together! 🚀
 
 ## 🚀 Category Skils
 ✅ Front End Web developer <br> 
