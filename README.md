@@ -90,7 +90,7 @@ Feel free to check out my repositories and see the work I’ve done. Let’s con
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/" width="200" alt="Mahabub'Profile"/></a>
 </div>
 
-### 🔭 I’m working -  Nabatat Co.compnay Saudi Ariba Dammam . 
+### 🔭 I’m working at Nabatat Co. company in Dammam, Saudi Arabia.
 ### 🌱 I’m exploring - React js,Next js inculde w3 shcool. 
 ### 👯 I’m looking - Web Devolapmer job in remote. 
 ### 🤔 I’m trying -  learn web development as Full stack Devolapment resposive Website. 
