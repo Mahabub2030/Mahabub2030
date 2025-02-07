@@ -5,7 +5,7 @@ I’m currently learning Full stack Devolapment
 
  <img src="https://scontent.fdmm3-1.fna.fbcdn.net/v/t39.30808-6/476240074_1883326022477830_6704285669115443539_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=px7mwE2g9XgQ7kNvgHhBs3q&_nc_oc=Adim7yp98jpgKUD_4J6iJ5pN1oQB4hQF-mhjv_cJyNwl-8iUl6xMH761afM07ctqB-gpOFYLcEnHQT4AHrGVWrc8&_nc_zt=23&_nc_ht=scontent.fdmm3-1.fna&_nc_gid=A4vXryWvBLFeCS_TQ4HGXS1&oh=00_AYAf5Hg2F72Clsthvw3Y-SEo-b8QLMnHxumr1fX-8exjeg&oe=67A92D1B" 
      alt="Facebook Image" 
-     width="1200">
+     width="800">
 
 
 .</h2>
