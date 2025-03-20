@@ -86,9 +86,7 @@ Feel free to check out my repositories and see the work I’ve done. Let’s con
 ###
 ## :eyes: Current overview
 
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/" width="200" alt="Mahabub'Profile"/></a>
-</div>
+
 
 ### 🔭 I’m working at Nabatat Co. company in Dammam, Saudi Arabia.
 ### 🌱 I’m exploring - React js,Next js inculde w3 shcool. 
