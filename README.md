@@ -3,8 +3,9 @@
 I’m currently learning Full stack Devolapment 
 <br/>
 
-<img width="80%" src="https://scontent.fdmm3-2.fna.fbcdn.net/v/t39.30808-6/480178732_1892696428207456_692700492332940828_n.png?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=CkF70k2vOGoQ7kNvgEBrQXy&_nc_oc=AdiKW_sezSxuuetQezQHOc_0Im3J3xir3b5_zMWSNMtxTeHpu81HnohMjK_A-NmyBMQj0QDXZuGu_5GJJ9uJ-k5L&_nc_zt=23&_nc_ht=scontent.fdmm3-2.fna&_nc_gid=AdoW6wIheslr_o59piQFLvk&oh=00_AYDn0BuHRrL7pYKJt32oxBXW-xFmv0mi0K58EoM_ZUB6WQ&oe=67B95A77" 
-alt="cover" />
+<img src="https://scontent.fdmm2-3.fna.fbcdn.net/v/t39.30808-6/485729475_1917315882412177_3294053402387490337_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=bhfx2h1i2-wQ7kNvgEH_7s3&_nc_oc=AdktBc01d2xeHWxi4Kk5vTO_-UbmxT-e7U7cM3A8V2nIQ4wKTz04MDbhQtvVDKkJ2B6-T2nKoSiaTLwKUCYCcyxQ&_nc_zt=23&_nc_ht=scontent.fdmm2-3.fna&_nc_gid=3ZnBT7LTOXLCS0Tg343WYg&oh=00_AYEJoZZ4QW6yk6hRor_lBUBQDgZhAK2U2TgoSRswkYwKYw&oe=67E1B0A2" />
+
+
 
 
 .</h2>
