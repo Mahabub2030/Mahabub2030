@@ -19,9 +19,7 @@ I’m currently learning Full stack Devolapment
 
 
 <!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahabub2030&show_icons=true&theme=dark" alt="GitHub Stats" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=dark&hide_border=true&border_radius=5.5&card_width=500" alt="GitHub Streak" /></a>
 
 
 
