@@ -82,3 +82,15 @@ Feel free to check out my repositories and see the work I’ve done. Let’s con
 ## 📧 For my  Inquiries 
 ✅  ► mahabubalam407557@gmail.com
 
+## 📦 All Project List
+
+| S.N | Name                     | Type of Project      | Used Technology                         | GitHub Link                              | Live Link                               |
+|-----|--------------------------|----------------------|------------------------------------------|-------------------------------------------|------------------------------------------|
+| 1   | Invoice System DACO      | Web App              | HTML, Tailwind, JavaScript, jsPDF        | [GitHub](#)                               | [Live](#)                                |
+| 2   | Salary Sheet Generator   | Tool / Web App       | HTML, Tailwind CSS, jQuery, JS, xlsx     | [GitHub](#)                               | [Live](#)                                |
+| 3   | Pet Adoption Website     | Full Stack Website   | JavaScript, DaisyUI, Tailwind, API       | [GitHub](#)                               | [Live](#)                                |
+| 4   | Student Marksheet PDF    | Web App              | HTML, Tailwind CSS, JavaScript, html2pdf | [GitHub](#)                               | [Live](#)                                |
+| 5   | Responsive Login Page    | UI Design            | HTML, Tailwind CSS                       | [GitHub](#)                               | [Live](#)                                |
+
+> 📌 *You can update the GitHub and Live links as your projects grow.*
+
