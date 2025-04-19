@@ -3,7 +3,8 @@
 "I’m currently learning Full Stack Development."
 <br/>
 
-<img src="https://scontent.fdmm2-2.fna.fbcdn.net/v/t39.30808-6/492212433_1942503929893372_8836151567280765661_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Bq--sqzftgQ7kNvwFbL1u5&_nc_oc=AdkAjpB5m1tRpDQOJrO0FzJYZVwx1r-QOkzFd7POFW_QEcP0MC7Ckdv3HDR7AVfoa03Sr2aUNGqRoD8cROvxTiOW&_nc_zt=23&_nc_ht=scontent.fdmm2-2.fna&_nc_gid=CYZwRSKoIrKh8UkC_G_27Q&oh=00_AfFBB71Dye8Bfc7L-qzHTZVWitGyonMrpk5Oy1QnIiZcUg&oe=6809326F" style="width: 80%;" />
+<img src="https://scontent.fdmm2-2.fna.fbcdn.net/v/t39.30808-6/492348546_1942506656559766_6364523297796952875_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gDNFu3dORbcQ7kNvwHdlR8d&_nc_oc=AdmWorYAWokY-lUY-v7UaSlOAzGu081Km_1lbKRFtsQ6Bk5kQ2cGzhMfrtDkZnrPhj-8xjAgdsTTi4HPm_Vw5y_-&_nc_zt=23&_nc_ht=scontent.fdmm2-2.fna&_nc_gid=d5UxpLL-yssgFL_UzGh9FQ&oh=00_AfH9pYAUy7Xxifcoiob9PXqPkkEUgZb07oT1SMD37rE9ZA&oe=68092462" style="width: 85%;" />
+
 
 
 </h2>
