@@ -3,7 +3,8 @@
 "I’m currently learning Full Stack Development."
 <br/>
 
-<img src="https://scontent.fdmm2-3.fna.fbcdn.net/v/t39.30808-6/485729475_1917315882412177_3294053402387490337_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=bhfx2h1i2-wQ7kNvgEH_7s3&_nc_oc=AdktBc01d2xeHWxi4Kk5vTO_-UbmxT-e7U7cM3A8V2nIQ4wKTz04MDbhQtvVDKkJ2B6-T2nKoSiaTLwKUCYCcyxQ&_nc_zt=23&_nc_ht=scontent.fdmm2-3.fna&_nc_gid=3ZnBT7LTOXLCS0Tg343WYg&oh=00_AYEJoZZ4QW6yk6hRor_lBUBQDgZhAK2U2TgoSRswkYwKYw&oe=67E1B0A2](https://scontent.fdmm3-1.fna.fbcdn.net/v/t39.30808-6/485729475_1917315882412177_3294053402387490337_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=6cMny9hzfKAQ7kNvgGFcyvQ&_nc_oc=Adlz-hMNFOUyVGPlXl8PFkJmRDRxXeIvBYWqg4nTINuT2x0C5eQhz7TdLZI6voJr9gcC1Yn_6NsqT2l2K7vzzj5O&_nc_zt=23&_nc_ht=scontent.fdmm3-1.fna&_nc_gid=3JHR8FSTzYXfN1Tg2m7MYQ&oh=00_AYGGRWY5kTYAD-6l_uncIEj9dQjY_riR07BMTccV010PIA&oe=67F45DE2](https://www.facebook.com/photo/?fbid=1917315875745511&set=a.101517573992026](https://scontent.fdmm2-3.fna.fbcdn.net/v/t39.30808-6/485729475_1917315882412177_3294053402387490337_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=iRKRPubRpVwQ7kNvwGwb7lz&_nc_oc=AdkHD2w3DLgoBOeRLM5eP_-WNtZdK5bHXbfSnUroKZPBfG4Xo5fs56csbGkV7M2y-H1ipUB2cGqb1BQTui9p3hLn&_nc_zt=23&_nc_ht=scontent.fdmm2-3.fna&_nc_gid=y61gqMgCsGJErUBcWynaGw&oh=00_AfHJ0Bkq2SlcI8g6A14uBy0HEnFQSR7vcpQW8KlbgFl5BQ&oe=67FA84E2"/>
+<img src="https://scontent.fdmm2-3.fna.fbcdn.net/v/t39.30808-6/492137028_1942498613227237_9170230150853654711_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3KqP5KUlEFkQ7kNvwEm1F29&_nc_oc=AdnMsa03wB4x3NrdoYG2f_bRbI2WvVTY0f5vHhu4NZs2eRLOBgT3posOaXNQh7HtF13sq-t_0brePT8tOGBZSYNj&_nc_zt=23&_nc_ht=scontent.fdmm2-3.fna&_nc_gid=yfyoeLLgi7uUWSzjwyPrsA&oh=00_AfGKK7y9Bzey095VewYDEmu1vuXZ7o0y0y0D3VWHI7q_Kg&oe=68090CF7" style="width: 70%;" />
+
 </h2>
 <div align="center">
 </p>
