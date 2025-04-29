@@ -3,7 +3,7 @@
 "I’m currently learning Full Stack Development."
 <br/>
 
-<img src="https://raw.githubusercontent.com/ymahabub2030/mahabub2030/main/m.jpg" style="width: 80%;" />
+<img width="60%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/m.jpg" />
 
 </h2>
 <div align="center">
@@ -11,9 +11,6 @@
 <!-- GitHub Stats -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=dark&hide_border=true&border_radius=5.5&card_width=500" alt="GitHub Streak" /></a>
 
-
-
-  
 </div>
 
 ###
