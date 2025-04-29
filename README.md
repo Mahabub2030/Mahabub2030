@@ -3,12 +3,7 @@
 "I’m currently learning Full Stack Development."
 <br/>
 
-<img src="https://scontent.fdmm2-3.fna.fbcdn.net/v/t39.30808-6/492137028_1942498613227237_9170230150853654711_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3KqP5KUlEFkQ7kNvwEm1F29&_nc_oc=AdnMsa03wB4x3NrdoYG2f_bRbI2WvVTY0f5vHhu4NZs2eRLOBgT3posOaXNQh7HtF13sq-t_0brePT8tOGBZSYNj&_nc_zt=23&_nc_ht=scontent.fdmm2-3.fna&_nc_gid=yfyoeLLgi7uUWSzjwyPrsA&oh=00_AfGKK7y9Bzey095VewYDEmu1vuXZ7o0y0y0D3VWHI7q_Kg&oe=68090CF7" style="width: 80%;" />
-
-
-
-
-
+<img src="https://scontent.fdmm2-3.fna.fbcdn.net/v/t39.30808-6/492137028_1942498613227237_9170230150853654711_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3KqP5KUlEFkQ7kNvwEm1F29&_nc_oc=AdnMsa03wB4x3NrdoYG2f_bRbI2WvVTY0f5vHhu4NZs2eRLOBgT3posOaXNQh7HtF13sq-t_0brePT8tOGBZSYNj&_nc_zt=23&_nc_ht=scontent.fdmm2-3.fna&_nc_gid=yfyoeLLgi7uUWSzjwyPrsA&oh=00_AfGKK7y9Bzey095VewYDEmu1vuXZ7o0y0y0D3VWHI7q_Kg&oe=68090CF7](https://scontent.fdmm3-1.fna.fbcdn.net/v/t39.30808-6/492212433_1942503929893372_8836151567280765661_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3PNkh4WFu28Q7kNvwGZSTlt&_nc_oc=AdnEwzVSO9OC8wrBxihYgsmuROZ371wtAb-MWZFHYP2A7fxw4w5ZkalIbMldOVBOg_f97yod_OGSfMsHNAkKpzLr&_nc_zt=23&_nc_ht=scontent.fdmm3-1.fna&_nc_gid=tSQxI4CPXE5bz5U99JaLyw&oh=00_AfEVxE-D2Cwa77LAYLlAYS-0LsUExr2ayK2rriF3dcYnKg&oe=6816D1E](https://scontent.fdmm3-1.fna.fbcdn.net/v/t39.30808-6/492348546_1942506656559766_6364523297796952875_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T9TUwIeG_IsQ7kNvwFeUzAh&_nc_oc=AdmeKc2HPN4YHvjfjhe22RaPUHpietZXflC-uxLzOct_Ko9RY-fXuAPJq1y060KP8pmUnBNlM2yC7tv95hgY4ASR&_nc_zt=23&_nc_ht=scontent.fdmm3-1.fna&_nc_gid=fTg42CTdyBADHqjO1pCPZA&oh=00_AfEmEKpe8zEe5Wh04k95l6eELm2p0CJWJ0-dDl8wrxecfQ&oe=6816FC22](https://www.facebook.com/photo/?fbid=1942506653226433&set=a.134483650695418&__cft__[0]=AZW1U1EKb3DKuRIr0a3aUNR3x6r9ohuRoD8rxw2dI06dVeqfLUZ7ABIxWBrbk2nEtmfZKM_J_u_AxC1lDQsP0iqs0kTH06g8i5jaPZry4W49EV4WS1bdUX-GYGvlPOX7O1qlurZ1kQU_C-wdNPe-8kJt6NxcYAePvHtEcH1Svprpbw&__tn__=EH-R)](https://scontent.fdmm3-1.fna.fbcdn.net/v/t39.30808-6/492348546_1942506656559766_6364523297796952875_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T9TUwIeG_IsQ7kNvwFeUzAh&_nc_oc=AdmeKc2HPN4YHvjfjhe22RaPUHpietZXflC-uxLzOct_Ko9RY-fXuAPJq1y060KP8pmUnBNlM2yC7tv95hgY4ASR&_nc_zt=23&_nc_ht=scontent.fdmm3-1.fna&_nc_gid=fTg42CTdyBADHqjO1pCPZA&oh=00_AfEmEKpe8zEe5Wh04k95l6eELm2p0CJWJ0-dDl8wrxecfQ&oe=6816FC22" style="width: 80%;" />
 
 
 </h2>
