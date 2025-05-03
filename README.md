@@ -3,7 +3,7 @@
 "I’m currently learning Full Stack Development."
 <br/>
 
-<img width="70%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/mahabub-.jpg" />
+<img width="70%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabubalam.jpg" />
 
 </h2>
 <div align="center">
