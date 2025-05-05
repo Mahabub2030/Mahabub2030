@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Mahabub Alam</h2>
+<h2 align="center">👋 Hello! I'm Mahabub Alam, a Frontend Developer currently learning Full Stack Development</h2>
 
 <p align="center">
   🔭 <strong>Aspiring Full Stack Developer</strong> <br/>
