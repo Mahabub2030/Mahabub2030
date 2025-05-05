@@ -2,7 +2,7 @@
 
 <p align="center">
   🔭 <strong>Aspiring Full Stack Developer</strong> <br/>
-  🌱 Currently learning: <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Node.js</strong> <br/>
+  🌱 Currently learning: <strong>TypeScript</strong> <br/>
   🎯 <strong>2025 Goal:</strong> Build and deploy <strong>5 full-stack web applications</strong> <br/>
   📫 Connect with me: 
   <a href="mailto:mahabubalam407557@gmail.com">Email</a> | 
