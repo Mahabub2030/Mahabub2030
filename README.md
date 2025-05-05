@@ -1,12 +1,16 @@
 <h2 align="center">👋 Hello! I'm Mahabub Alam</h2>
 
 <p align="center">
-🔭 I'm working on becoming a <strong>Full Stack Developer</strong><br/>
-🌱 Currently learning: <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Node.js</strong><br/>
-🎯 <strong>2025 Goal:</strong> Build and deploy 5 full-stack web applications<br/>
-📫 Connect with me: <a href="mailto:mahabubalam407557@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/frontendreactdeveloper/">LinkedIn</a>
-
+  🔭 <strong>Aspiring Full Stack Developer</strong> <br/>
+  🌱 Currently learning: <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Node.js</strong> <br/>
+  🎯 <strong>2025 Goal:</strong> Build and deploy <strong>5 full-stack web applications</strong> <br/>
+  📫 Connect with me: 
+  <a href="mailto:mahabubalam407557@gmail.com">Email</a> | 
+  <a href="https://www.linkedin.com/in/frontendreactdeveloper/">LinkedIn</a>
 </p>
+
+
+
 
 
 <p align="center">
