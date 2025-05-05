@@ -56,10 +56,20 @@
 ###
 
 <div align="center">
- <p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">
-   <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">
-   <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/frontendreactdeveloper/" target="_blank">
+      <img height="90" width="150" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png?raw=true" alt="LinkedIn" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100024013500308" target="_blank">
+      <img height="90" width="150" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png?raw=true" alt="Facebook" />
+    </a>
+    <a href="https://twitter.com/" target="_blank">
+      <img height="90" width="150" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png?raw=true" alt="Twitter" />
+    </a>
+  </p>
 </div>
+
+
 
 ###
 
