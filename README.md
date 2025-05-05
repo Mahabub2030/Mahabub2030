@@ -6,7 +6,6 @@
   🎯 <strong>2025 Goal:</strong> Build and deploy <strong>5 full-stack web applications</strong> <br/>
   📫 Connect with me: 
   <a href="mailto:mahabubalam407557@gmail.com">Email</a> | 
-  <a href="https://www.linkedin.com/in/frontendreactdeveloper/">LinkedIn</a>
 </p>
 
 
