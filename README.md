@@ -1,9 +1,16 @@
-<h2 align="center">Hi 👋! this is .Mahabub.Alam. 
+<h2 align="center">👋 Hello! I'm Mahabub Alam</h2>
 
-"I’m currently learning Full Stack Development."
-<br/>
+<p align="center">
+🔭 I'm working on becoming a <strong>Full Stack Developer</strong><br/>
+🌱 Currently learning: <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Node.js</strong><br/>
+🎯 <strong>2025 Goal:</strong> Build and deploy 5 full-stack web applications<br/>
+📫 Connect with me: <a href="mailto:your-email@example.com">Email</a> | <a href="https://www.linkedin.com/in/your-link">LinkedIn</a>
+</p>
 
-<img width="70%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabubalam.jpg" />
+
+<p align="center">
+ <img width="70% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabubalam.jpg" />
+</p>
 
 </h2>
 <div align="center">
