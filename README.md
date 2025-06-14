@@ -1,4 +1,4 @@
-<h2 align="center">👋Hello! I'm Mahabub Alam, a Web Developer with the MERN Stack."</h2>
+<h2 align="center">👋Hello! I'm Mahabub Alam, a Web Developer with the MERN Stack.</h2>
 
 <p align="center">
   🔭 <strong>Aspiring Full Stack Developer</strong> <br/>
@@ -11,7 +11,7 @@
 
 
 <p align="center">
- <img width="90% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/mahabub-alam.png" />
+ <img width="80% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/mahabub-alam.png" />
 </p>
 
 </h2>
