@@ -11,7 +11,7 @@
 
 
 <p align="center">
- <img width="80% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/mahabub-alam.png" />
+ <img width="80% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabub (2).jpg" />
 </p>
 
 </h2>
