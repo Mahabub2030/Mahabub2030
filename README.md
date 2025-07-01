@@ -1,4 +1,7 @@
-<h2 align="center">👋Hello! I'm Mahabub Alam, a Web Developer with the MERN Stack.</h2>
+<h2 class="text-center text-2xl font-semibold">
+  👋 Hi! I'm <span class="text-blue-600 font-bold">Mahabub Alam</span> — a Web Developer specializing in the <span class="text-green-600 font-bold">MERN Stack</span>.
+</h2>
+
 
 <p align="center">
   🔭 <strong>Aspiring Full Stack Developer</strong> <br/>
