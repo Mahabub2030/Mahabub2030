@@ -14,7 +14,7 @@
 
 
 <p align="center">
- <img width="80% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabub (2).jpg" />
+ <img width="80% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Blue Modern Gradient IT Solutions & Technology Presentation (1).jpg" />
 </p>
 
 </h2>
