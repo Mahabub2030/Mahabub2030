@@ -14,8 +14,11 @@
 
 
 <p align="center">
- <img width="90% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/mahabub.mp4" />
+  <a href="https://github.com/mahabub2030/mahabub2030/blob/main/assets/mahabub.mp4">
+    🎥 Watch my intro video
+  </a>
 </p>
+
 
 </h2>
 <div align="center">
