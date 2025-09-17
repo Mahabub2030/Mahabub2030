@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/mahabub2030/mahabub2030/blob/main/assets/mahabub.mp4">
+  <a href="https://github.com/mahabub2030/mahabub2030/blob/main/mahabub.mp4">
     🎥 Watch my intro video
   </a>
 </p>
