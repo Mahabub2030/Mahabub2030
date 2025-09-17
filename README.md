@@ -13,11 +13,7 @@
 
 
 
-<p align="center">
-  <a href="https://www.facebook.com/61577248333744/videos/1514061926422066">
-    🎥 Watch my video on Facebook
-  </a>
-</p>
+<p align="center"> <img width="90% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Blue Modern Gradient IT Solutions & Technology Presentation (1).jpg" /> </p>
 
 
 
