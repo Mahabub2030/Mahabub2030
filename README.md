@@ -58,7 +58,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://www.linkedin.com/in/frontendreactdeveloper/" target="_blank">
+    <a href="https://www.linkedin.com/in/frontendreactdeveloper/](https://www.linkedin.com/in/mahabub-fullstack-developer/" target="_blank">
       <img height="90" width="150" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png?raw=true" alt="LinkedIn" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100024013500308" target="_blank">
