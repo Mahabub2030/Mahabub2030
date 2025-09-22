@@ -13,7 +13,7 @@
 
 
 
-<p align="center"> <img width="90% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabub-.png" /> </p>
+<p align="center"> <img width="70% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabub-.png" /> </p>
 
 
 
