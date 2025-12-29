@@ -108,7 +108,7 @@ Feel free to check out my repositories and see the work I’ve done. Let’s con
 
 | S.N | Name                     | Type of Project      | Used Technology                         | GitHub Link                              | Live Link                               |
 |-----|--------------------------|----------------------|------------------------------------------|-------------------------------------------|------------------------------------------|
-| 1   | Employee managment sestym| Web App              | react js,node js,mongodb,talwincss css   | [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack)    | [Live](#)                                |
+| 1   | Employee managment sestym| Web App              | react js,node js,mongodb,talwincss css   | [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack)    | [[Live]](https://wallet-client-one.vercel.app/)(#)                                |
 | 2   | Salary Sheet Generator   | Tool / Web App       | HTML, Tailwind CSS, jQuery, JS, xlsx     | [GitHub](#)                               | [Live](#)                                |
 | 3   | Pet Adoption Website     | Full Stack Website   | JavaScript, DaisyUI, Tailwind, API       | [GitHub](#)                               | [Live](#)                                |
 | 4   | Student Marksheet PDF    | Web App              | HTML, Tailwind CSS, JavaScript, html2pdf | [GitHub](#)                               | [Live](#)                                |
