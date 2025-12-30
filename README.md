@@ -21,8 +21,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=Mahabub2030&short_numbers=true)](https://github.com/Mahabub2030)
   
   <!-- GitHub Stats -->
-  <br/>
-  [![Mahabub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahabub2030&show_icons=true&count_private=true&theme=radical)](https://github.com/Mahabub2030)
+ 
 </div>
 
 ###
