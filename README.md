@@ -10,9 +10,6 @@
 </p>
 
 
-
-
-
 <p align="center"> <img width="70% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabub-.png" /> </p>
 
 
@@ -28,8 +25,6 @@
 
 ###
 <img align="right" height="150" src ="C:\Users\Mahabub\Desktop\MAHABUB\img\support.png" />
-
-
 
 
  <h2 align="center"> Technologies that I know </h2>
@@ -69,8 +64,6 @@
     </a>
   </p>
 </div>
-
-## 🧠 Coding Activity (Recent Focus)
 
 
 ###
