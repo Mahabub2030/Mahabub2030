@@ -18,8 +18,7 @@
 </h2>
 <div align="center">
   <!-- GitHub Streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Mahabub2030&short_numbers=true)](https://github.com/Mahabub2030)
-  
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mahabub2030&short_numbers=true" alt="GitHub Streak" /></a>
   <!-- GitHub Stats -->
  
 </div>
