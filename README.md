@@ -109,6 +109,9 @@ Feel free to check out my repositories and see the work I’ve done. Let’s con
 | 5   | Responsive Login Page    | UI Design            | HTML, Tailwind CSS                       | [GitHub](#)                               | [Live](#)                                |
 
 > 📌 *You can update the GitHub and Live links as your projects grow.*>
+
+
+## 🧠 Coding Activity (Recent Focus)
  ```txt
 TypeScript   13 hrs 16 mins  ████████████████████████▓  98.22%
 JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
