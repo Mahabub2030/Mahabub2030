@@ -17,10 +17,12 @@
 
 </h2>
 <div align="center">
-</p>
-<!-- GitHub Stats -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=dark&hide_border=true&border_radius=5.5&card_width=500" alt="GitHub Streak" /></a>
-
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Mahabub2030&short_numbers=true)](https://github.com/Mahabub2030)
+  
+  <!-- GitHub Stats -->
+  <br/>
+  [![Mahabub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahabub2030&show_icons=true&count_private=true&theme=radical)](https://github.com/Mahabub2030)
 </div>
 
 ###
