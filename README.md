@@ -53,9 +53,9 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=radical&hide_border=true" width="100%" />
+    <img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=dark&hide_border=true&short_numbers=true" />
   </a>
-</div>
+</div>>
 
 <br/>
 
