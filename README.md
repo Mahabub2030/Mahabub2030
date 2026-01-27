@@ -62,7 +62,7 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
 |---|-------------|------|-----------|--------|------|
 | 1 | Employee Management System | Full Stack Web App | React, Node.js, MongoDB, Tailwind | [GitHub](https://github.com/Mahabub2030/Employee-Management-Frontend) | Coming Soon |
 | 2 | Digital Wallet System | Full Stack Web App | React, Redux Toolkit, Express, Node.js, MongoDB, Tailwind | [GitHub](https://github.com/Mahabub2030/-Wallet-Client) | [Live](https://wallet-client-one.vercel.app/) |
-| 3 | Travel Buddy & Meetup | Full Stack Web App | Next.js, Tailwind CSS, SadcnUI, Backend: Node.js, Express, Prisma, PostgreSQL | [GitHub](https://github.com/Mahabub2030/Travel-Client) | [Live](https://wallet-client-one.vercel.app/) |
+| 3 | Travel Buddy & Meetup | Full Stack Web App | Next.js, Tailwind CSS, SadcnUI, Backend: Node.js, Express, Prisma, PostgreSQL | [GitHub](https://github.com/Mahabub2030/Travel-Client) | [Live](https://travel-buddy-and-meetup-client.vercel.app/) |
 | 4 | Attendance Sheet | Utility App | HTML, JavaScript, Tailwind CSS, html2pdf | [GitHub](https://github.com/Mahabub2030/Attendance-sheet-For-Daco) | [Live](https://mahabub2030.github.io/DACO/) |
 
 ---
