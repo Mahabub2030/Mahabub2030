@@ -50,7 +50,7 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
 ---
 
 ## 📊 GitHub Stats
-<div align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=radical&hide_border=true" width="100%" /> </a> </div> <br/> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mahabub2030&show_icons=true&theme=radical&hide_border=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub2030&layout=compact&theme=radical&hide_border=true" width="49%" /> </div> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub2030&theme=react-dark&area=true&hide_border=true" width="100%" />
+<div align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=radical&hide_border=true" width="100%" />
 
 ---
 
