@@ -58,11 +58,11 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
 
 | # | Project Name | Type | Tech Stack | GitHub | Live |
 |---|-------------|------|-----------|--------|------|
-| 1 | Employee Management System | Full Stack Web App | React, Node.js, MongoDB, Tailwind | [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack) | [Live](https://wallet-client-one.vercel.app/) |
-| 2 | Salary Sheet Generator | Tool | HTML, Tailwind, JS, jQuery, XLSX | Coming Soon | Coming Soon |
-| 3 | Pet Adoption Platform | Web App | JS, Tailwind, DaisyUI, API | Coming Soon | Coming Soon |
-| 4 | Student Marksheet PDF | Utility App | HTML, JS, Tailwind, html2pdf | Coming Soon | Coming Soon |
-| 5 | Responsive Login UI | UI Design | HTML, Tailwind CSS | Coming Soon | Coming Soon |
+| 1 | Employee Management System | Full Stack Web App | React, Node.js, MongoDB, Tailwind | [GitHub](https://github.com/Mahabub2030/Employee-Management-Frontend) | [Live](https://wallet-client-one.vercel.app/) |
+| 2 | Salary Sheet Generator | Tool | HTML, Tailwind, JS, jQuery, XLSX |  [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack) | [Live](https://wallet-client-one.vercel.app/) |
+| 3 | Pet Adoption Platform | Web App | JS, Tailwind, DaisyUI, API | [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack) | [Live](https://wallet-client-one.vercel.app/) |
+| 4 | Student Marksheet PDF | Utility App | HTML, JS, Tailwind, html2pdf | [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack) | [Live](https://wallet-client-one.vercel.app/) |
+| 5 | Responsive Login UI | UI Design | HTML, Tailwind CSS | [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack) | [Live](https://wallet-client-one.vercel.app/) |
 
 ---
 
