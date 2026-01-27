@@ -1,121 +1,117 @@
-<h2 class="text-center text-2xl font-semibold">
-  👋 Hi! I'm <span class="text-blue-600 font-bold">Mahabub Alam</span> — a Web Developer specializing in the <span class="text-green-600 font-bold">MERN Stack</span>.
+<!-- ========================= -->
+<!-- 👋 HEADER -->
+<!-- ========================= -->
+
+<h2 align="center">
+  👋 Hi! I'm <span style="color:#3b82f6;">Mahabub Alam</span><br/>
+  <sub>Full Stack Web Developer (MERN Stack)</sub>
 </h2>
 
-
 <p align="center">
-  🔭 <strong>Aspiring Full Stack Developer</strong> <br/>
-  🌱 Currently learning: <strong>TypeScript</strong> <br/>
-  🎯 <strong>2025 Goal:</strong> Build and deploy <strong>5 full-stack web applications</strong> <br/>
+  <strong>Aspiring Full Stack Developer</strong> 🚀 <br/>
+  🌱 Currently learning: <strong>TypeScript & Advanced Backend</strong> <br/>
+  🎯 <strong>2025 Goal:</strong> Build & deploy <strong>5+ production-ready full-stack apps</strong>
 </p>
 
-
-<p align="center"> <img width="70% " src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabub-.png" /> </p>
-
-
-
-
-</h2>
-<div align="center">
-  <!-- GitHub Streak -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-  <!-- GitHub Stats -->
- 
-</div>
-
-###
-<img align="right" height="150" src ="C:\Users\Mahabub\Desktop\MAHABUB\img\support.png" />
-
-
- <h2 align="center"> Technologies that I know </h2>
-<div id="user-content-toc">
- 
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,mongodb,figma,firebase,github,js,nodejs,vscode&perline=9" />
-   
-  </a>
-
+  <img width="70%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabub-.png" alt="Mahabub Alam Banner"/>
 </p>
 
-<div align="center">
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-   <img src="https://skillicons.dev/icons?i=nextjs&perline=9" />
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+---
 
-</div>
-
-###
+<!-- ========================= -->
+<!-- 🔤 TYPING INTRO -->
+<!-- ========================= -->
 
 <div align="center">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/frontendreactdeveloper/](https://www.linkedin.com/in/mahabub-fullstack-developer/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-      <img height="90" width="150" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png?raw=true" alt="LinkedIn" />
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100024013500308" target="_blank">
-      <img height="90" width="150" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png?raw=true" alt="Facebook" />
-    </a>
-    <a href="https://twitter.com/" target="_blank">
-      <img height="90" width="150" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png?raw=true" alt="Twitter" />
-    </a>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+Next.js+Developer;Node.js+%7C+MongoDB+%7C+PostgreSQL;Problem+Solver;Building+Scalable+Web+Apps" />
 </div>
 
-
-###
-
-<br clear="both" align="center">
+---
 
 ## 🚀 About Me
-Hi, I'm Prasher, a passionate Frontend Developer with a strong background in building dynamic and responsive web applications. I have successfully developed 5 websites for clients, focusing on delivering high-quality user experiences and efficient, maintainable code. My expertise lies in modern web technologies, ensuring that every project meets both aesthetic and functional standards.
 
-I specialize in React.js for building interactive UIs, ensuring seamless and fast performance. Additionally, I have experience with Node.js for backend development and MongoDB for database management, enabling me to work across the full stack when needed. This combination allows me to create comprehensive solutions, from frontend interfaces to backend APIs.
+I’m a **Full Stack Web Developer** passionate about building **scalable, high-performance web applications** using modern JavaScript technologies.
 
-I'm dedicated to continuous learning and staying updated with the latest industry trends. My projects showcase my ability to write clean, efficient code while focusing on performance, scalability, and user experience. I'm excited to contribute to open-source projects and collaborate with other developers to build innovative web solutions.
+- 💻 Frontend: **React, Next.js, Tailwind CSS**
+- 🧠 Backend: **Node.js, Express, MongoDB, Prisma, PostgreSQL**
+- 🧩 Strong focus on **clean architecture, performance & UX**
+- 🌍 Currently working in **Dammam, Saudi Arabia**
+- 🔎 Actively seeking **remote Full Stack / Frontend roles**
 
-Feel free to check out my repositories and see the work I’ve done. Let’s connect and build something amazing together! 🚀
+---
 
-## 🚀 Category Skils
-✅ Front End Web developer <br> 
-✅ problem solving  <br>
-✅ HTML5 / CSS3 / tailwind css / Bootstrap <br>
-✅ Photoshop / Illustrator (Basic) <br>
-###
-## :eyes: Current overview
+## 🧰 Technologies & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,redux,tailwind,firebase,git,github,figma,vscode&perline=9" />
+</p>
 
+---
 
-### 🔭 I’m working at Nabatat Co. company in Dammam, Saudi Arabia.
-### 🌱 I’m exploring - React js,Next js inculde w3 shcool. 
-### 👯 I’m looking - Web Devolapmer job in remote. 
-### 🤔 I’m trying -  learn web development as Full stack Devolapment resposive Website. 
-### ⚡ Fun fact - I Like play with codeing alawys.
+## 📊 GitHub Stats
 
-## 📧 For my  Inquiries 
-✅  ► mahabubalam407557@gmail.com
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=radical&hide_border=true" width="100%" />
+  </a>
+</div>
 
-## 📦 All Project List
+<br/>
 
-| S.N | Name                     | Type of Project      | Used Technology                         | GitHub Link                              | Live Link                               |
-|-----|--------------------------|----------------------|------------------------------------------|-------------------------------------------|------------------------------------------|
-| 1   | Employee managment sestym| Web App              | react js,node js,mongodb,talwincss css   | [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack)    | [[Live]](https://wallet-client-one.vercel.app/)|
-| 2   | Salary Sheet Generator   | Tool / Web App       | HTML, Tailwind CSS, jQuery, JS, xlsx     | [GitHub](#)                               | [Live](#)                                |
-| 3   | Pet Adoption Website     | Full Stack Website   | JavaScript, DaisyUI, Tailwind, API       | [GitHub](#)                               | [Live](#)                                |
-| 4   | Student Marksheet PDF    | Web App              | HTML, Tailwind CSS, JavaScript, html2pdf | [GitHub](#)                               | [Live](#)                                |
-| 5   | Responsive Login Page    | UI Design            | HTML, Tailwind CSS                       | [GitHub](#)                               | [Live](#)                                |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahabub2030&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub2030&layout=compact&theme=radical&hide_border=true" width="49%" />
+</div>
 
-> 📌 *You can update the GitHub and Live links as your projects grow.*>
+<br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub2030&theme=react-dark&area=true&hide_border=true" width="100%" />
 
-## 🧠 Coding Activity (Recent Focus)
- ```txt
-TypeScript   13 hrs 16 mins  ████████████████████████▓  98.22%
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
-SCSS         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+---
 
+## 📦 Featured Projects
 
+| # | Project Name | Type | Tech Stack | GitHub | Live |
+|---|-------------|------|-----------|--------|------|
+| 1 | Employee Management System | Full Stack Web App | React, Node.js, MongoDB, Tailwind | [GitHub](https://github.com/Mahabub2030/Employee-Management-Full-stack) | [Live](https://wallet-client-one.vercel.app/) |
+| 2 | Salary Sheet Generator | Tool | HTML, Tailwind, JS, jQuery, XLSX | Coming Soon | Coming Soon |
+| 3 | Pet Adoption Platform | Web App | JS, Tailwind, DaisyUI, API | Coming Soon | Coming Soon |
+| 4 | Student Marksheet PDF | Utility App | HTML, JS, Tailwind, html2pdf | Coming Soon | Coming Soon |
+| 5 | Responsive Login UI | UI Design | HTML, Tailwind CSS | Coming Soon | Coming Soon |
+
+---
+
+## 👀 Current Overview
+
+- 🔭 Working at **Nabatat Co.**, Dammam, Saudi Arabia  
+- 🌱 Learning **Next.js, TypeScript, Backend Optimization**  
+- 👯 Looking for **Remote Web Developer roles**  
+- ⚡ Fun fact: *I enjoy turning complex logic into clean UI*
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahabub-fullstack-developer/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+  </a>
+  <a href="mailto:mahabubalam407557@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
+  </a>
+  <a href="https://wa.me/01326153447" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100024013500308" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 🚀  
+  <br/>
+  <sub>Let’s build something impactful together.</sub>
+</p>
