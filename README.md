@@ -73,7 +73,9 @@
   </a>
   <br/>
 </div>
----
+<br/>
+<!-- Contribution Graph (Wavy Style) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub2030&theme=react-dark&area=true&hide_border=true" width="100%" />
 
 ## 🚀 About Me
 
