@@ -100,22 +100,74 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
 
 ---
 
+### 📦 Featured Projects
+
+<table width="500%" align="center">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project Name</th>
+      <th>Type</th>
+      <th>Tech Stack</th>
+      <th>GitHub</th>
+      <th>Live</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Employee Management System</td>
+      <td>Full Stack Web App</td>
+      <td>React, Node.js, MongoDB, Tailwind</td>
+      <td>
+        <a href="https://github.com/Mahabub2030/Employee-Management-Frontend">GitHub</a>
+      </td>
+      <td>Coming Soon</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Digital Wallet System</td>
+      <td>Full Stack Web App</td>
+      <td>React, Redux Toolkit, Express, MongoDB</td>
+      <td>
+        <a href="https://github.com/Mahabub2030/-Wallet-Client">GitHub</a>
+      </td>
+      <td>
+        <a href="https://wallet-client-one.vercel.app/">Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Travel Buddy & Meetup</td>
+      <td>Full Stack Web App</td>
+      <td>Next.js, Tailwind, ShadcnUI, Prisma, PostgreSQL</td>
+      <td>
+        <a href="https://github.com/Mahabub2030/Travel-Client">GitHub</a>
+      </td>
+      <td>
+        <a href="https://travel-buddy-and-meetup-client.vercel.app/">Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Attendance Sheet</td>
+      <td>Utility App</td>
+      <td>HTML, JavaScript, Tailwind, html2pdf</td>
+      <td>
+        <a href="https://github.com/Mahabub2030/Attendance-sheet-For-Daco">GitHub</a>
+      </td>
+      <td>
+        <a href="https://mahabub2030.github.io/DACO/">Live</a>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+
 
 
 ---
 
-
-
-## 📦 Featured Projects
-
-| # | Project Name | Type | Tech Stack | GitHub | Live |
-|---|-------------|------|-----------|--------|------|
-| 1 | Employee Management System | Full Stack Web App | React, Node.js, MongoDB, Tailwind | [GitHub](https://github.com/Mahabub2030/Employee-Management-Frontend) | Coming Soon |
-| 2 | Digital Wallet System | Full Stack Web App | React, Redux Toolkit, Express, Node.js, MongoDB, Tailwind | [GitHub](https://github.com/Mahabub2030/-Wallet-Client) | [Live](https://wallet-client-one.vercel.app/) |
-| 3 | Travel Buddy & Meetup | Full Stack Web App | Next.js, Tailwind CSS, SadcnUI, Backend: Node.js, Express, Prisma, PostgreSQL | [GitHub](https://github.com/Mahabub2030/Travel-Client) | [Live](https://travel-buddy-and-meetup-client.vercel.app/) |
-| 4 | Attendance Sheet | Utility App | HTML, JavaScript, Tailwind CSS, html2pdf | [GitHub](https://github.com/Mahabub2030/Attendance-sheet-For-Daco) | [Live](https://mahabub2030.github.io/DACO/) |
-
----
 
 ## 👀 Current Overview
 
