@@ -118,7 +118,6 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       <th>GitHub</th>
       <th>Live</th>
       <th>Status</th>
-      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -132,7 +131,6 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       </td>
       <td>Coming Soon</td>
       <td>Ongoing</td>
-      <td>Manage employee data with CRUD operations and PDF export.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -146,7 +144,6 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
         <a href="https://wallet-client-one.vercel.app/" target="_blank">Live</a>
       </td>
       <td>Active</td>
-      <td>Send and receive payments with wallet management and user auth.</td>
     </tr>
     <tr>
       <td>3</td>
@@ -160,7 +157,6 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
         <a href="https://travel-buddy-and-meetup-client.vercel.app/" target="_blank">Live</a>
       </td>
       <td>Active</td>
-      <td>Find travel buddies, organize meetups, and manage trips.</td>
     </tr>
     <tr>
   <td>4</td>
@@ -174,7 +170,6 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
     <a href="https://mahabub2030.github.io/DACO/" target="_blank">Live</a>
   </td>
   <td>Completed</td>
-  <td>Generate attendance PDFs for employees automatically.</td>
 </tr>
 <tr>
   <td>5</td>
@@ -188,7 +183,6 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
     <a href="https://mahabub2030.github.io/Food-/" target="_blank">Live</a>
   </td>
   <td>Completed</td>
-  <td>A front-end project for displaying and managing food items.</td>
 </tr>
 
   </tbody>
