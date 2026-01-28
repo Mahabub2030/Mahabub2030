@@ -129,7 +129,7 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       <td>
         <a href="https://github.com/Mahabub2030/Employee-Management-Frontend" target="_blank">GitHub</a>
       </td>
-      <td>Coming Soon</td>
+       <a href="https://wallet-client-one.vercel.app/](https://employee-management-system-chi-bay.vercel.app/" target="_blank">Live</a>
       <td>Ongoing</td>
     </tr>
     <tr>
