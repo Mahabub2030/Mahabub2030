@@ -100,10 +100,12 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
 
 ---
 
+
+### 📦 Featured Projects
 ### 📦 Featured Projects
 
-<table width="500%" align="center">
-  <thead>
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="min-width:1200px; max-width:100%; border-collapse:collapse;">
+  <thead style="background-color:#f87171; color:white;">
     <tr>
       <th>#</th>
       <th>Project Name</th>
@@ -111,6 +113,8 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       <th>Tech Stack</th>
       <th>GitHub</th>
       <th>Live</th>
+      <th>Status</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -120,9 +124,11 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       <td>Full Stack Web App</td>
       <td>React, Node.js, MongoDB, Tailwind</td>
       <td>
-        <a href="https://github.com/Mahabub2030/Employee-Management-Frontend">GitHub</a>
+        <a href="https://github.com/Mahabub2030/Employee-Management-Frontend" target="_blank">GitHub</a>
       </td>
       <td>Coming Soon</td>
+      <td>Ongoing</td>
+      <td>Manage employee data with CRUD operations and PDF export.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -130,11 +136,13 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       <td>Full Stack Web App</td>
       <td>React, Redux Toolkit, Express, MongoDB</td>
       <td>
-        <a href="https://github.com/Mahabub2030/-Wallet-Client">GitHub</a>
+        <a href="https://github.com/Mahabub2030/-Wallet-Client" target="_blank">GitHub</a>
       </td>
       <td>
-        <a href="https://wallet-client-one.vercel.app/">Live</a>
+        <a href="https://wallet-client-one.vercel.app/" target="_blank">Live</a>
       </td>
+      <td>Active</td>
+      <td>Send and receive payments with wallet management and user auth.</td>
     </tr>
     <tr>
       <td>3</td>
@@ -142,11 +150,13 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       <td>Full Stack Web App</td>
       <td>Next.js, Tailwind, ShadcnUI, Prisma, PostgreSQL</td>
       <td>
-        <a href="https://github.com/Mahabub2030/Travel-Client">GitHub</a>
+        <a href="https://github.com/Mahabub2030/Travel-Client" target="_blank">GitHub</a>
       </td>
       <td>
-        <a href="https://travel-buddy-and-meetup-client.vercel.app/">Live</a>
+        <a href="https://travel-buddy-and-meetup-client.vercel.app/" target="_blank">Live</a>
       </td>
+      <td>Active</td>
+      <td>Find travel buddies, organize meetups, and manage trips.</td>
     </tr>
     <tr>
       <td>4</td>
@@ -154,15 +164,18 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       <td>Utility App</td>
       <td>HTML, JavaScript, Tailwind, html2pdf</td>
       <td>
-        <a href="https://github.com/Mahabub2030/Attendance-sheet-For-Daco">GitHub</a>
+        <a href="https://github.com/Mahabub2030/Attendance-sheet-For-Daco" target="_blank">GitHub</a>
       </td>
       <td>
-        <a href="https://mahabub2030.github.io/DACO/">Live</a>
+        <a href="https://mahabub2030.github.io/DACO/" target="_blank">Live</a>
       </td>
+      <td>Completed</td>
+      <td>Generate attendance PDFs for employees automatically.</td>
     </tr>
-    
   </tbody>
 </table>
+
+
 
 
 
