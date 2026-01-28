@@ -31,7 +31,7 @@
 
 ## 🧰 Languages and Tools
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
@@ -46,6 +46,7 @@
   <img width="5" />
   <img src="https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg&mask=rect&rx=20" height="40" alt="redux" />
   <img width="5" />
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
@@ -76,6 +77,12 @@
 <br/>
 <!-- Contribution Graph (Wavy Style) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub2030&theme=react-dark&area=true&hide_border=true" width="100%" />
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
+</div>
 
 ## 🚀 About Me
 
