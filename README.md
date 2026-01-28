@@ -1,17 +1,21 @@
 <!-- ========================= -->
 <!-- 👋 HEADER -->
 <!-- ========================= -->
-
-<h2 align="center">
-  👋 Hi! I'm <span style="color:#3b82f6;">Mahabub Alam</span><br/>
-  <sub>Full Stack Web Developer (MERN Stack)</sub>
-</h2>
+<h1 align="center">
+  👋 Hi! I'm <span style="color:#3b82f6;">Mahabub Alam</span>
+</h1>
 
 <p align="center">
-  <strong>Aspiring Full Stack Developer</strong> 🚀 <br/>
-  🌱 Currently learning: <strong>TypeScript & Advanced Backend</strong> <br/>
-  🎯 <strong>2025 Goal:</strong> Build & deploy <strong>5+ production-ready full-stack apps</strong>
+  Full Stack Web Developer (MERN Stack) <br/>
+  🚀 Passionate about building scalable, responsive, and production-ready web applications
 </p>
+
+<p align="center">
+  🌱 Currently learning: <strong>TypeScript & Advanced Backend</strong> <br/>
+  🎯 Goal 2026: Deploy <strong>5+ full-stack projects</strong> to production <br/>
+  💻 GitHub: <a href="https://github.com/Mahabub2030" target="_blank">github.com/Mahabub2030</a>
+</p>
+
 
 <p align="center">
   <img width="70%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Mahabub-.png" alt="Mahabub Alam Banner"/>
