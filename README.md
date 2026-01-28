@@ -159,33 +159,34 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
       <td>Find travel buddies, organize meetups, and manage trips.</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Attendance Sheet</td>
-      <td>Utility App</td>
-      <td>HTML, JavaScript, Tailwind, html2pdf</td>
-      <td>
-        <a href="https://github.com/Mahabub2030/Attendance-sheet-For-Daco" target="_blank">GitHub</a>
-      </td>
-      <td>
-        <a href="https://mahabub2030.github.io/DACO/" target="_blank">Live</a>
-      </td>
-      <td>Completed</td>
-      <td>Generate attendance PDFs for employees automatically.</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Foods</td>
-      <td>Front end</td>
-      <td>HTML, css ,JavaScript</td>
-      <td>
-        <a href="[https://github.com/Mahabub2030/Attendance-sheet-For-Daco](https://github.com/Mahabub2030/Food-)" target="_blank">GitHub</a>
-      </td>
-      <td>
-        <a href="[https://mahabub2030.github.io/DACO](https://github.com/Mahabub2030/Food-)/" target="_blank">Live</a>
-      </td>
-      <td>Completed</td>
-      <td>Generate attendance PDFs for employees automatically.</td>
-    </tr>
+  <td>4</td>
+  <td>Attendance Sheet</td>
+  <td>Utility App</td>
+  <td>HTML, JavaScript, Tailwind, html2pdf</td>
+  <td>
+    <a href="https://github.com/Mahabub2030/Attendance-sheet-For-Daco" target="_blank">GitHub</a>
+  </td>
+  <td>
+    <a href="https://mahabub2030.github.io/DACO/" target="_blank">Live</a>
+  </td>
+  <td>Completed</td>
+  <td>Generate attendance PDFs for employees automatically.</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>Foods</td>
+  <td>Front End</td>
+  <td>HTML, CSS, JavaScript</td>
+  <td>
+    <a href="https://github.com/Mahabub2030/Food-" target="_blank">GitHub</a>
+  </td>
+  <td>
+    <a href="https://mahabub2030.github.io/Food-/" target="_blank">Live</a>
+  </td>
+  <td>Completed</td>
+  <td>A front-end project for displaying and managing food items.</td>
+</tr>
+
   </tbody>
 </table>
 
