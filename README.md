@@ -70,7 +70,10 @@
 <div align="left">
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Mahabub2030&theme=radical&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app?user=Mahabub2030&theme=tokyonight&hide_border=true&border_radius=5&card_width=1000" />
+
+
+
   </a>
   <br/>
 </div>
@@ -79,10 +82,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub2030&theme=react-dark&area=true&hide_border=true" width="100%" />
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub2030&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahabub2030&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
 </div>
+
 
 ## 🚀 About Me
 
