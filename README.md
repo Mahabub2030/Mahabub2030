@@ -74,8 +74,9 @@
 <div align="left">
   <br/>
   <a href="https://git.io/streak-stats">
-<img src="https://nirzak-streak-stats.vercel.app?user=Mahabub2030&theme=tokyonight&hide_border=true&border_radius=5&card_width=1000" />
-
+    <img src="https://nirzak-streak-stats.vercel.app?user=Mahabub2030&theme=tokyonight&hide_border=true&border_radius=5&card_width=1000" />
+  </a>
+</div>
 
 
   </a>
