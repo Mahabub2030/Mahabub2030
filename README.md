@@ -86,10 +86,10 @@
 <!-- Contribution Graph (Wavy Style) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub2030&theme=react-dark&area=true&hide_border=true" width="100%" />
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub2030&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahabub2030&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
+
 </div>
 
 
