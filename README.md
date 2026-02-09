@@ -16,18 +16,6 @@
   Continuous Learning | Practice | Code Review | Project Building
 </p>
 
-<p align="center">
-  Building scalable & production-ready web applications
-</p>
-
-
-<p align="center">
-  💻 GitHub:
-  <a href="https://github.com/Mahabub2030" target="_blank">
-    github.com/Mahabub2030
-  </a>
-</p>
-
 
 
 <p align="center">
