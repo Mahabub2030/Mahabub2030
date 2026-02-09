@@ -1,20 +1,33 @@
 <!-- ========================= -->
 <!-- 👋 HEADER -->
 <!-- ========================= -->
-<h1 align="center">
-  👋 Hi! I'm <span style="color:#3b82f6;">Mahabub Alam</span>
+<h1 align="center" style="font-size:48px; font-weight:700;">
+  👋 Hi, I'm Mahabub <span style="color:#3b82f6; font-size:56px;">Alam</span>
 </h1>
 
+<h2 align="center" style="font-weight:600;">
+  Full Stack Web Developer
+</h2>
+
 <p align="center">
-  Full Stack Web Developer (MERN Stack) <br/>
-  🚀 Passionate about building scalable, responsive, and production-ready web applications
+  React | Node.js | MongoDB | Next.js
+</p>
+<p align="center">
+  Continuous Learning | Practice | Code Review | Project Building
 </p>
 
 <p align="center">
-  🌱 Currently learning: <strong>TypeScript & Advanced Backend</strong> <br/>
-  🎯 Goal 2026: Deploy <strong>5+ full-stack projects</strong> to production <br/>
-  💻 GitHub: <a href="https://github.com/Mahabub2030" target="_blank">github.com/Mahabub2030</a>
+  Building scalable & production-ready web applications
 </p>
+
+
+<p align="center">
+  💻 GitHub:
+  <a href="https://github.com/Mahabub2030" target="_blank">
+    github.com/Mahabub2030
+  </a>
+</p>
+
 
 
 <p align="center">
