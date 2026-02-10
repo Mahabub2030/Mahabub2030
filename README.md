@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/Cover for fb.jpg" alt="Mahabub Alam Banner"/>
+  <img width="80%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/FB.png" alt="Mahabub Alam Banner"/>
 </p>
 
 ---
