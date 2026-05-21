@@ -73,9 +73,8 @@
 
 <!-- Streak Stats - Full Width and Dynamic -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mahabub2030&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mahabub2030&theme=tokyonight&hide_border=true" alt="Mahabub2030" />
 </div>
-
 
   </a>
   <br/>
@@ -109,9 +108,6 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
 - 🔎 Actively seeking **remote Full Stack / Frontend roles**
 
 ---
-
-
-### 📦 Featured Projects
 ### 📦 Featured Projects
 
 <table align="center" border="1" cellspacing="0" cellpadding="8" style="min-width:1200px; max-width:100%; border-collapse:collapse;">
