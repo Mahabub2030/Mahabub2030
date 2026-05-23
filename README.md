@@ -30,7 +30,8 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+Next.js+Developer;Node.js+%7C+MongoDB+%7C+PostgreSQL;Problem+Solver;Building+Scalable+Web+Apps" />
-   </a> </div> <br/> 
+   </a> </div>
+    <br/> 
 </div>
 
 
@@ -70,6 +71,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
 </div>
+<br/>
+<br/>
 
 <!-- Streak Stats - Full Width and Dynamic -->
 <div align="center">
@@ -80,6 +83,7 @@
   <br/>
 </div>
 <br/>
+
 <!-- Contribution Graph (Wavy Style) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub2030&theme=react-dark&area=true&hide_border=true" width="100%" />
 
