@@ -73,7 +73,7 @@
 
 <!-- Streak Stats - Full Width and Dynamic -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mahabub2030&theme=tokyonight&hide_border=true" alt="Mahabub2030" />
+  <img src="https://streak-stats.demolab.com?user=Mahabub2030&theme=tokyonight&hide_border=true" />
 </div>
 
   </a>
@@ -83,11 +83,12 @@
 <!-- Contribution Graph (Wavy Style) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub2030&theme=react-dark&area=true&hide_border=true" width="100%" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub2030&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages" />
-  &nbsp;
+<br/>
 
-</div>
+
+
+
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mahabub2030&color=green&style=flat-square)
