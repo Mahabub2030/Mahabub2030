@@ -204,7 +204,7 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, high-
 
 ## 👀 Current Overview
 
-- 🔭 Working at **Safari Group Limited** as an **Administrative (ADMDIM Role)**, Dammam, Saudi Arabia  
+- 🔭 Working at **Safari Group Limited** as an **Administrative Role**, Dammam, Saudi Arabia  
 - 🌱 Learning **Next.js, TypeScript, and Backend Optimization**  
 - 👯 Looking for **Remote Web Developer roles**  
 - ⚡ Fun fact: I enjoy turning complex logic into clean UI
