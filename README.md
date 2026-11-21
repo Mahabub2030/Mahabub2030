@@ -1,16 +1,8 @@
-<h1 align="center">👋 Hi, I'm Mahabub Alam</h1>
 
-<h3 align="center">Full Stack Web Developer</h3>
 
-<p align="center">
-  React | Node.js | MongoDB | Next.js
-</p>
-<p align="center">
-  Continuous Learning | Practice | Code Review | Project Building
-</p>
 
 <p align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/MahabubAlam.png" alt="Mahabub Alam Banner"/>
+  <img width="80%" src="https://raw.githubusercontent.com/mahabub2030/mahabub2030/main/bg-github.png" alt="Mahabub Alam Banner"/>
 </p>
 
 ---
